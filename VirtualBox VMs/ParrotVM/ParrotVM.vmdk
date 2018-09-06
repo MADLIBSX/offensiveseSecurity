@@ -1,0 +1,50 @@
+# Disk DescriptorFile
+version=1
+CID=f7acda0a
+parentCID=ffffffff
+createType="twoGbMaxExtentSparse"
+
+# Extent description
+RW 4192256 SPARSE "ParrotVM-s001.vmdk"
+RW 4192256 SPARSE "ParrotVM-s002.vmdk"
+RW 4192256 SPARSE "ParrotVM-s003.vmdk"
+RW 4192256 SPARSE "ParrotVM-s004.vmdk"
+RW 4192256 SPARSE "ParrotVM-s005.vmdk"
+RW 4192256 SPARSE "ParrotVM-s006.vmdk"
+RW 4192256 SPARSE "ParrotVM-s007.vmdk"
+RW 4192256 SPARSE "ParrotVM-s008.vmdk"
+RW 4192256 SPARSE "ParrotVM-s009.vmdk"
+RW 4192256 SPARSE "ParrotVM-s010.vmdk"
+RW 4192256 SPARSE "ParrotVM-s011.vmdk"
+RW 4192256 SPARSE "ParrotVM-s012.vmdk"
+RW 4192256 SPARSE "ParrotVM-s013.vmdk"
+RW 4192256 SPARSE "ParrotVM-s014.vmdk"
+RW 4192256 SPARSE "ParrotVM-s015.vmdk"
+RW 4192256 SPARSE "ParrotVM-s016.vmdk"
+RW 4192256 SPARSE "ParrotVM-s017.vmdk"
+RW 4192256 SPARSE "ParrotVM-s018.vmdk"
+RW 4192256 SPARSE "ParrotVM-s019.vmdk"
+RW 4192256 SPARSE "ParrotVM-s020.vmdk"
+RW 4192256 SPARSE "ParrotVM-s021.vmdk"
+RW 4192256 SPARSE "ParrotVM-s022.vmdk"
+RW 4192256 SPARSE "ParrotVM-s023.vmdk"
+RW 4192256 SPARSE "ParrotVM-s024.vmdk"
+RW 4192256 SPARSE "ParrotVM-s025.vmdk"
+RW 4192256 SPARSE "ParrotVM-s026.vmdk"
+RW 4192256 SPARSE "ParrotVM-s027.vmdk"
+RW 4192256 SPARSE "ParrotVM-s028.vmdk"
+RW 4192256 SPARSE "ParrotVM-s029.vmdk"
+RW 4192256 SPARSE "ParrotVM-s030.vmdk"
+RW 4192256 SPARSE "ParrotVM-s031.vmdk"
+RW 4192256 SPARSE "ParrotVM-s032.vmdk"
+RW 3913984 SPARSE "ParrotVM-s033.vmdk"
+
+# The disk Data Base 
+#DDB
+
+ddb.virtualHWVersion = "4"
+ddb.adapterType="ide"
+ddb.uuid.image="7ada3fe0-25fe-4b40-a325-0321b5e6d77f"
+ddb.uuid.parent="00000000-0000-0000-0000-000000000000"
+ddb.uuid.modification="00000000-0000-0000-0000-000000000000"
+ddb.uuid.parentmodification="00000000-0000-0000-0000-000000000000"
